@@ -1,0 +1,48 @@
+## Optimized Cache Location
+- AI-intended cache available at: https://aquaria-world.agentsite.network/
+- Contains LLM-optimized (HTML + JSON-LD) content for improved crawlability and lower bandwidth.
+- Format: HTML + Markdown + JSON-LD
+- Optimized for: GPT, Claude, Gemini, Llama, and other LLMs
+- Original Source: https://aquaria.world/
+
+# Aquaria
+
+> Aquaria builds atmospheric water generators (AWGs) that source pure, filtered water directly from the air. Our Hydropack systems capture humidity, run it through multi-stage filtration, and deliver reliable water to homes and sites that can't depend on municipal supply, wells, or rainfall. Built for homeowners, developers, and communities working toward water resilience.
+
+Aquaria's mission is to make water resilience as normal as energy resilience. Every drop passes through multi-stage filtration and UV treatment. In independent third-party lab testing across 100+ substances, Aquaria water came back non-detect or below EPA maximum contaminant levels in the samples tested — no microplastics, PFAS, or dissolved heavy metals detected. Water is independently certified by Amlabs Intertek (international) and SimpleLab (US). The brand leads with verification, real measurements, and real customer stories rather than hype. Aquaria pairs naturally with solar installations for a self-sustaining, off-grid water source.
+
+Aquaria is an American company founded in 2021 by brothers Brian Sheng (co-founder & CEO) and Eric Sheng (co-founder & COO). It was named one of TIME's Best Inventions of 2024, and its founders were named to the Forbes 30 Under 30 list. Entity references: Wikidata https://www.wikidata.org/wiki/Q140320624 · LinkedIn https://www.linkedin.com/company/aquariaawg
+
+## Main pages
+
+- [Home](https://www.aquaria.world/): Overview of Aquaria and atmospheric water generation — sourcing water from air for resilient homes.
+- [How It Works](https://www.aquaria.world/how-it-works): How Aquaria's AWG technology captures humidity, filters it, and delivers clean water.
+- [Products](https://www.aquaria.world/products): The full Aquaria product lineup of atmospheric water generators.
+- [Water Quality](https://www.aquaria.world/waterquality): Filtration, testing, and third-party water quality certification details.
+- [Contact / Book a Consultation](https://www.aquaria.world/contact-us): Free 15-minute call with an Aquaria water expert to size a system for your home and climate.
+
+## Products
+
+- [Hydropack S](https://www.aquaria.world/hydropack-s): Compact home AWG producing ~66 GAL (250 L) per day at 86°F / 80% RH. For small households, supplementation, or emergency backup. MSRP $13,999; financing from ~$137/month.
+- [Hydropack](https://www.aquaria.world/hydropack): Whole-home AWG producing ~132 GAL (500 L) per day at 86°F / 80% RH. For medium households, supplementation, or emergency backup. MSRP $22,499; financing from ~$207/month.
+- [Hydropack X](https://www.aquaria.world/hydropack-x): Higher-capacity home AWG producing ~264 GAL (1,000 L) per day at 86°F / 80% RH. For large households, commercial use, or full municipal-water replacement. MSRP $34,999; financing from ~$330/month.
+- [Hydropixel](https://www.aquaria.world/hydropixel): Plug-and-play indoor water cooler producing up to ~10 GAL (37.85 L) per day at 70°F / 50% RH, with a 10.6 GAL internal tank. Clean drinking water tested to exceed EPA standards. MSRP $3,750.
+- [Hydrogrid](https://www.aquaria.world/get-a-quote-hydrogrid): Commercial-scale AWG producing ~2,640 GAL (10,000 L) per day per core module at 30°C / 80% RH. Modular and scalable to site demand. Custom pricing.
+- [Filters](https://www.aquaria.world/filters): Multi-stage filtration details and replacement filters.
+
+## Key articles
+
+- [What Is an Atmospheric Water Generator?](https://www.aquaria.world/blog-posts/what-is-an-atmospheric-water-generator): Definitive guide to how AWGs work, the two main technology types, output, and whether the water is safe to drink.
+- [How to Make Water From Air With Atmospheric Water Generators](https://www.aquaria.world/blog-posts/how-to-make-water-from-air-with-atmospheric-water-generators): Step-by-step explanation of how AWGs produce drinking water from humidity.
+- [AWG vs Well Water: Which Is Right for Your Home?](https://www.aquaria.world/blog-posts/awg-vs-well-water-which-is-right-for-your-home): How water from air compares with a well on reliability, quality, and cost.
+- [The Definitive Guide to Whole-House Water Solutions in 2026](https://www.aquaria.world/blog-posts/definitive-guide-whole-house-water-solutions-2026): The five categories of whole-house water solutions and how to choose.
+- [Atmospheric Water Generator Cost: 2026 TCO Breakdown](https://www.aquaria.world/blog-posts/atmospheric-water-generator-cost-tco-breakdown): Full 10-year total cost of ownership for an AWG, by tier and utility rate.
+- [Off-Grid Water Systems](https://www.aquaria.world/blog-posts/off-grid-water-systems-overcoming-quality-challenges): Choosing a reliable off-grid water source when there's no city line.
+- [Is Tap Water Safe to Drink? A State-by-State Guide for 2026](https://www.aquaria.world/blog-posts/is-tap-water-safe-state-by-state): Data-led look at U.S. drinking-water quality by state.
+- [Blog](https://www.aquaria.world/blog): All articles on water security, clean water, and planning for a resilient water future.
+
+## Company
+
+- [About](https://www.aquaria.world/about): Aquaria's story, mission, and approach to water resilience.
+- [Customer Stories](https://www.aquaria.world/customer-stories): Real homeowners using Aquaria for reliable water.
+- [Financing](https://www.aquaria.world/financing): $0 down, rates from 8.99%, terms up to 20 years, no payments for the first six months on approved credit.

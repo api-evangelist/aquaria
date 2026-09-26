@@ -1,23 +1,81 @@
 aid: aquaria
+
 name: Aquaria
-description: 'Aquaria is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: Aquaria makes water from thin air—delivering abundant, safe water for your entire home with no pipes, no wells, no PFAS. The company
+  provides atmospheric water generators for residential, commercial, and community use, aiming to solve water scarcity with sustainable technology.
+
 url: https://raw.githubusercontent.com/api-evangelist/aquaria/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-25 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-25'
+
 modified: '2026-09-25'
+
 tags:
 - Company
-apis: []
+- WaterTech
+- Sustainability
+- AtmosphericWater
+- CleanTech
+- HomeTech
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/aquaria-plans-pricing.yml
+- type: LLMsTxt
+  url: llms/aquaria-llms.txt
+- type: WellKnown
+  url: well-known/aquaria-well-known.yml
+- type: Hosts
+  url: hosts/aquaria-hosts.yml
+- type: Vendors
+  url: vendors/aquaria-vendors.yml
+- type: TermsOfService
+  url: https://www.aquaria.world/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.aquaria.world/legal/privacy-policy
+- type: Pricing
+  url: https://www.aquaria.world/legal/price-match-guarantee
+- type: Blog
+  url: https://www.aquaria.world/blog
+- type: DomainSecurity
+  url: security/aquaria-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.aquaria.world
+
+apis:
+- name: Aquaria API
+  description: API for Aquaria water generator services
+  humanURL: https://www.aquaria.world/water-plan
+  aid: aquaria:aquaria-api
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No owned OpenAPI or GraphQL spec could be verified for Aquaria; the GraphQL endpoint appears to be a generic Shopify API not specific
+    to Aquaria.
+  evidence:
+  - url: https://shop.aquaria.world/api/graphql
+    status: 200
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-25'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

@@ -1,0 +1,16 @@
+generated: '2026-09-25'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.aquaria.world/legal/price-match-guarantee
+sources:
+- https://www.aquaria.world/legal/price-match-guarantee
+name: Aquaria pricing
+audience: business-product
+pricing_basis: negotiated
+plans:
+- name: Free Water Plan
+  price_text: Free
+- name: Hydropixel
+  price_text: $3,750
+  price: 3750
+docs: https://www.aquaria.world/legal/price-match-guarantee
